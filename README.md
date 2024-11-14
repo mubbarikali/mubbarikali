@@ -15,22 +15,33 @@ DevOps Engineer with a strong foundation in **Cloud Computing, CI/CD**, and **Co
 
 ### 📜 **Certifications**
 
+## Certifications
+
+This section lists my completed certifications.
+
 #### **DevOps**
-- **Cloud Native Applications with Kubernetes Specialization** – Red Hat, October 2024
-- **Fundamentals of Ansible** – Red Hat, October 2024
-- **DevOps on AWS Specialization** – AWS, October 2024
-- **AWS Fundamentals Specialization** – AWS, October 2024
-- **MLOps Essentials** – Google, June 2024
+
+* **Cloud Native Applications with Kubernetes Specialization** – Red Hat, October 2024
+* **Fundamentals of Ansible** – Red Hat, October 2024
+* **DevOps on AWS Specialization** – AWS, October 2024
+* **AWS Fundamentals Specialization** – AWS, October 2024
+* **MLOps Essentials** – Google, June 2024
 
 #### **AI**
-- **AI for Project Managers and Scrum Masters** – Coursera, September 2024
-- **Building RAG Agents with LLMs** – NVIDIA, August 2024
-- **Computer Vision and Image Processing Essentials** – IBM, July 2024
-- **Deep Learning Essentials with Keras** – IBM, July 2024
-- **Machine Learning with Python** – IBM, July 2024
+
+* **AI for Project Managers and Scrum Masters** – Coursera, September 2024
+* **Building RAG Agents with LLMs** – NVIDIA, August 2024
+* **Computer Vision and Image Processing Essentials** – IBM, July 2024
+* **Deep Learning Essentials with Keras** – IBM, July 2024
+* **Machine Learning with Python** – IBM, July 2024
+* **Introduction to Machine Learning** – AWS, July 2024
+* **Introduction to Generative AI** – Google, June 2024
+* **Generative AI Specialization** – IBM, June 2024
+* **Certified AI Developer Professional Certification(6 months)** – IBM, June 2024
 
 #### **Others**
-- **Agile Project Management** – Google, September 2024
+
+* **Agile Project Management** – Google, September 2024
 
 ---
 
@@ -82,7 +93,7 @@ DevOps Engineer with a strong foundation in **Cloud Computing, CI/CD**, and **Co
 ### 💼 **Professional Experience**
 
 #### **DevOps Engineer**  
-**Creative Tech House** | October 2021 – October 2024  
+**Creative Tech House** | 2021 – Present  
 - **CI/CD Pipelines**: Developed and managed automated CI/CD pipelines with Jenkins and GitHub Actions, reducing deployment time by 50%.
 - **Containerized Environments**: Architected Kubernetes and Docker environments for scalable microservices, optimizing resource allocation.
 - **Infrastructure Automation**: Streamlined infrastructure provisioning with Terraform and Ansible, enhancing deployment efficiency.
@@ -108,9 +119,3 @@ Created an automated cloud architecture on AWS with cost-monitoring tools, succe
 - **Interests**: Open-source projects, advancing in ML/AI technologies, and exploring the latest in MLOps.
 
 ---
-
-### 📂 **Portfolio and Contact**
-
-📂 **Portfolio Website**: <a href="https://mubbarikali.github.io" target="_blank">https://mubbarikali.github.io</a>  
-📂 **GitHub Profile**: <a href="https://github.com/mubbarikali" target="_blank">https://github.com/mubbarikali</a>  
-📂 **LinkedIn**: <a href="https://linkedin.com/in/mubbarikali" target="_blank">https://linkedin.com/in/mubbarikali</a>
