@@ -3,7 +3,7 @@
 🚀 **DevOps Engineer | Cloud Computing | CI/CD Automation | Containerization | AI & MLOps Enthusiast**
 
 📍 Islamabad, Pakistan  
-🌐 [LinkedIn](https://linkedin.com/in/mubbarikali){:target="_blank"} | [Meeting](https://calendly.com/mubbarikali){:target="_blank"} | [Social](https://linktr.ee/mubbarikali){:target="_blank"} | [Website](https://mubbarikali.github.io){:target="_blank"}
+🌐 <a href="https://linkedin.com/in/mubbarikali" target="_blank">LinkedIn</a> | <a href="https://calendly.com/mubbarikali" target="_blank">Meeting</a> | <a href="https://linktr.ee/mubbarikali" target="_blank">Social</a> | <a href="https://mubbarikali.github.io" target="_blank">Website</a>
 
 ---
 
@@ -82,7 +82,7 @@ DevOps Engineer with a strong foundation in **Cloud Computing, CI/CD**, and **Co
 ### 💼 **Professional Experience**
 
 #### **DevOps Engineer**  
-**Creative Tech House** | October 2022 – October 2024  
+**Creative Tech House** | October 2021 – October 2024  
 - **CI/CD Pipelines**: Developed and managed automated CI/CD pipelines with Jenkins and GitHub Actions, reducing deployment time by 50%.
 - **Containerized Environments**: Architected Kubernetes and Docker environments for scalable microservices, optimizing resource allocation.
 - **Infrastructure Automation**: Streamlined infrastructure provisioning with Terraform and Ansible, enhancing deployment efficiency.
@@ -111,6 +111,6 @@ Created an automated cloud architecture on AWS with cost-monitoring tools, succe
 
 ### 📂 **Portfolio and Contact**
 
-📂 **Portfolio Website**: [https://mubbarikali.github.io](https://mubbarikali.github.io){:target="_blank"}  
-📂 **GitHub Profile**: [https://github.com/mubbarikali](https://github.com/mubbarikali){:target="_blank"}  
-📂 **LinkedIn**: [https://linkedin.com/in/mubbarikali](https://linkedin.com/in/mubbarikali){:target="_blank"}
+📂 **Portfolio Website**: <a href="https://mubbarikali.github.io" target="_blank">https://mubbarikali.github.io</a>  
+📂 **GitHub Profile**: <a href="https://github.com/mubbarikali" target="_blank">https://github.com/mubbarikali</a>  
+📂 **LinkedIn**: <a href="https://linkedin.com/in/mubbarikali" target="_blank">https://linkedin.com/in/mubbarikali</a>
