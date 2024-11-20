@@ -15,10 +15,6 @@ DevOps Engineer with a strong foundation in **Cloud Computing, CI/CD**, and **Co
 
 ### 📜 **Certifications**
 
-## Certifications
-
-This section lists my completed certifications.
-
 #### **DevOps**
 
 * **Cloud Native Applications with Kubernetes Specialization** – Red Hat, October 2024
