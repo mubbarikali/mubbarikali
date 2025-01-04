@@ -65,7 +65,7 @@ Solution-Oriented Software Engineer with a strong command of Python Django, capa
   **Development Practices:**
   - SDLC, OOP, DRY & SOLID principles, TDD, Unit Testing, Integration Testing
     
-  **Project Management & Agile**  
+  **Project Management & Agile:**
   - Jira, Trello, Scrum methodologies
 
   </td>
