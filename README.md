@@ -1,6 +1,6 @@
 # Mubbarik Ali
 
-🚀 **Software Engineer - Python | Django | Generative AI | Cloud | DevOps**
+🚀 **DevOps Engineer | Cloud Computing | CI/CD Automation | Containerization | AI & MLOps Enthusiast**
 
 📍 Islamabad, Pakistan  
 🌐 <a href="https://linkedin.com/in/mubbarikali" target="_blank">LinkedIn</a> | <a href="https://calendly.com/mubbarikali" target="_blank">Meeting</a> | <a href="https://linktr.ee/mubbarikali" target="_blank">Social</a> | <a href="https://mubbarikali.github.io" target="_blank">Website</a>
@@ -9,7 +9,7 @@
 
 ### 🌟 **Professional Summary**
 
-Solution-Oriented Software Engineer with a strong command of Python Django, capable of building scalable, enterprise-level applications and delivering innovative solutions. Can process real-time data and optimize workflows using tools like RabbitMQ and Apache Kafka. Experienced in creating RESTful APIs and designing high-performance SQL/NoSQL databases. Skilled in deploying CI/CD pipelines on AWS with tools like Jenkins and GitHub Actions. Proficient in architecting microservices and orchestrating them using Kubernetes. Built advanced **Generative AI** applications, including **Agentic RAG**, leveraging LangChain, ChromaDB, and multiple LLMs. Adept at managing the end-to-end SDLC with Agile methodologies to ensure efficient and impactful delivery.
+DevOps Engineer with a strong foundation in **Cloud Computing, CI/CD**, and **Containerization**, complemented by a background in **Software Engineering** and **AI Development**. Skilled at deploying robust, automated DevOps solutions, optimizing infrastructure, and applying industry-standard practices. Experience spans from developing Java Spring Boot microservices to managing **Kubernetes-based MLOps** solutions. Excited to bring a blend of DevOps expertise and AI-driven innovation to create scalable, reliable systems with a future focus on MLOps.
 
 ---
 
@@ -41,32 +41,38 @@ Solution-Oriented Software Engineer with a strong command of Python Django, capa
 <tr>
   <td valign="top">
 
-  **Web Development:**
-  - HTML5, CSS3, JavaScript, React, Django, DRF, Celery
-  
-  **Databases:**
-  - PostgreSQL, MongoDB
-  
-  **API and Integration:**
-  - REST
-  
-  **Cloud:**
-  - AWS, NGINX, Apache
-    
+  **Cloud Platforms**  
+  - AWS (EC2, S3, Lambda, CloudFormation, etc.)
+
+  **Containerization & Orchestration**  
+  - Docker, Kubernetes, Helm
+
+  **Infrastructure as Code (IaC)**  
+  - Terraform, CloudFormation
+
+  **Configuration Management**  
+  - Ansible
+
+  **Programming & Scripting**  
+  - Python, Bash, Java (Spring Boot), JavaScript (Node.js)
+
   </td>
   <td valign="top">
 
-  **DevOps:**
-  - Git, Docker, Kubernetes, Linux
-    
-  **AI:**
-  - LangChain, LangGraph, ChromaDB, Amazon SageMaker, MLOps
+  **Version Control & CI/CD**  
+  - Git, GitHub Actions, Jenkins, GitLab CI/CD
 
-  **Development Practices:**
-  - SDLC, OOP, DRY & SOLID principles, TDD, Unit Testing, Integration Testing
-    
+  **Monitoring & Logging**  
+  - Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+
+  **Web & Software Development**  
+  - MERN Stack (MongoDB, Express, React, Node.js), Django, Laravel
+
   **Project Management & Agile:**
   - Jira, Trello, Scrum methodologies
+
+  **Machine Learning & AI**  
+  - Amazon SageMaker, IBM Watson AI, MLOps principles
 
   </td>
 </tr>
@@ -76,14 +82,23 @@ Solution-Oriented Software Engineer with a strong command of Python Django, capa
 
 ### 💼 **Professional Experience**
 
-  - Developed scalable RESTful APIs using Django, DRF, and Celery.
-  - Designed and optimized SQL/NoSQL database systems for high performance.
-  - Streamlined real-time data processing workflows with RabbitMQ and Apache Kafka.
-  - Implemented CI/CD pipelines on AWS with tools like Jenkins and GitHub Actions for seamless deployments.
-  - Worked on Amazon EC2, Lambda, S3, RDS, ECS, ECR, SQS and many other services.
-  - Created resilient microservices-based architectures using Docker and Kubernetes.
-  - Built Generative AI applications (Agentic RAG) with LangChain and ChromaDB, integrating multiple LLMs and data sources.
-  - Managed end-to-end software development lifecycle adhering to Agile methodologies.
+#### **DevOps Engineer**  
+**Creative Tech House** | 2021 – Present  
+- **CI/CD Pipelines**: Developed and managed automated CI/CD pipelines with Jenkins and GitHub Actions, reducing deployment time by 50%.
+- **Containerized Environments**: Architected Kubernetes and Docker environments for scalable microservices, optimizing resource allocation.
+- **Infrastructure Automation**: Streamlined infrastructure provisioning with Terraform and Ansible, enhancing deployment efficiency.
+- **Monitoring & Reliability**: Deployed Prometheus and Grafana for real-time monitoring, improving incident response and reliability.
+- **Agile Project Management**: Applied Agile principles to project workflows, achieving significant productivity gains across the team.
+
+---
+
+### 🌐 **Notable Projects**
+
+#### **1. Kubernetes-Based CI/CD Pipeline**
+Developed a CI/CD pipeline for containerized applications using Kubernetes and Helm, enabling automated, frequent, and stable releases.
+
+#### **2. AWS Cost Optimization Strategy**
+Created an automated cloud architecture on AWS with cost-monitoring tools, successfully reducing cloud expenses by 20%.
 
 ---
 
