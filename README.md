@@ -1,6 +1,6 @@
 # Mubbarik Ali
 
-🚀 **DevOps Engineer | Cloud Computing | CI/CD Automation | Containerization | AI & MLOps Enthusiast**
+🚀 **Senior Software Engineer | Python & Django | Microservices | DevOps | Generative AI Solutions Architect**
 
 📍 Islamabad, Pakistan  
 🌐 <a href="https://linkedin.com/in/mubbarikali" target="_blank">LinkedIn</a> | <a href="https://calendly.com/mubbarikali" target="_blank">Meeting</a> | <a href="https://linktr.ee/mubbarikali" target="_blank">Social</a> | <a href="https://mubbarikali.github.io" target="_blank">Website</a>
@@ -9,7 +9,7 @@
 
 ### 🌟 **Professional Summary**
 
-DevOps Engineer with a strong foundation in **Cloud Computing, CI/CD**, and **Containerization**, complemented by a background in **Software Engineering** and **AI Development**. Skilled at deploying robust, automated DevOps solutions, optimizing infrastructure, and applying industry-standard practices. Experience spans from developing Java Spring Boot microservices to managing **Kubernetes-based MLOps** solutions. Excited to bring a blend of DevOps expertise and AI-driven innovation to create scalable, reliable systems with a future focus on MLOps.
+Solution-oriented **Senior Software Engineer** with extensive experience in **Python, Django, Microservices, and Cloud-based architectures**. Proficient in delivering production-grade, enterprise-level systems using RESTful APIs, Kubernetes, and AWS infrastructure. Proven ability to build robust Generative AI applications using LLMs, LangChain, and modern vector stores like ChromaDB. Passionate about building intelligent systems that solve real-world problems by leveraging scalable architectures, automation, and AI innovation.
 
 ---
 
@@ -41,38 +41,32 @@ DevOps Engineer with a strong foundation in **Cloud Computing, CI/CD**, and **Co
 <tr>
   <td valign="top">
 
-  **Cloud Platforms**  
-  - AWS (EC2, S3, Lambda, CloudFormation, etc.)
+  **Languages & Frameworks**  
+  - Python, Django, DRF, React, JavaScript, Node.js, Flask
 
-  **Containerization & Orchestration**  
-  - Docker, Kubernetes, Helm
+  **Cloud & Infrastructure**  
+  - AWS, Docker, Kubernetes, NGINX, Apache, GitHub Actions
 
-  **Infrastructure as Code (IaC)**  
-  - Terraform, CloudFormation
+  **Databases**  
+  - PostgreSQL, MongoDB, ChromaDB
 
-  **Configuration Management**  
-  - Ansible
-
-  **Programming & Scripting**  
-  - Python, Bash, Java (Spring Boot), JavaScript (Node.js)
+  **DevOps & CI/CD**  
+  - Git, GitHub, Jenkins, Linux, Docker, Kubernetes, GitLab CI/CD
 
   </td>
   <td valign="top">
 
-  **Version Control & CI/CD**  
-  - Git, GitHub Actions, Jenkins, GitLab CI/CD
+  **AI & Machine Learning**  
+  - LangChain, LangGraph, LLMs (LLaMA-2, GPT), HuggingFace, IBM Watsonx
 
-  **Monitoring & Logging**  
-  - Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+  **Data Processing & Messaging**  
+  - Celery, Apache Kafka, RabbitMQ
 
-  **Web & Software Development**  
-  - MERN Stack (MongoDB, Express, React, Node.js), Django, Laravel
+  **Testing & Quality**  
+  - TDD, Unit Testing, Integration Testing, SDLC, DRY & SOLID Principles
 
-  **Project Management & Agile:**
-  - Jira, Trello, Scrum methodologies
-
-  **Machine Learning & AI**  
-  - Amazon SageMaker, IBM Watson AI, MLOps principles
+  **Project Management**  
+  - Agile, Scrum, Jira, Trello
 
   </td>
 </tr>
@@ -82,30 +76,47 @@ DevOps Engineer with a strong foundation in **Cloud Computing, CI/CD**, and **Co
 
 ### 💼 **Professional Experience**
 
-#### **DevOps Engineer**  
-**Creative Tech House** | 2021 – Present  
-- **CI/CD Pipelines**: Developed and managed automated CI/CD pipelines with Jenkins and GitHub Actions, reducing deployment time by 50%.
-- **Containerized Environments**: Architected Kubernetes and Docker environments for scalable microservices, optimizing resource allocation.
-- **Infrastructure Automation**: Streamlined infrastructure provisioning with Terraform and Ansible, enhancing deployment efficiency.
-- **Monitoring & Reliability**: Deployed Prometheus and Grafana for real-time monitoring, improving incident response and reliability.
-- **Agile Project Management**: Applied Agile principles to project workflows, achieving significant productivity gains across the team.
+#### **Senior Software Engineer & Consultant (Part-Time)**  
+**Confidential VC Fund** | April 2025 – Present  
+- Architected an AI-driven Portfolio Monitoring system providing real-time analytics and predictions for 200+ startups.  
+- Built multi-agent systems using LangChain and LangGraph for automated data ingestion from public, private, and blockchain sources.  
+- Designed advanced data pipelines combining internal reports, on-chain metrics, market news, and social signals.  
+- Integrated and fine-tuned open-source LLMs to ensure data privacy and financial forecasting capabilities.
+
+#### **Senior Software Engineer**  
+**Creative Tech House, Islamabad** | Jan 2021 – Dec 2024  
+- Developed RESTful APIs and backend services with Django, deployed via Dockerized microservices on AWS.  
+- Engineered Generative AI tools, including agentic RAG pipelines using LangChain and vector databases.  
+- Automated CI/CD with Jenkins and GitHub Actions; deployed Kubernetes workloads for scalable AI delivery.
+
+#### **Software Engineer**  
+**G4S, UAE** | Mar 2018 – Oct 2020  
+- Maintained and scaled Django-based backend systems for multinational operations.  
+- Built Kafka-powered real-time data processing systems.  
+- Designed robust PostgreSQL and MongoDB schemas with high availability and data integrity.
 
 ---
 
 ### 🌐 **Notable Projects**
 
-#### **1. Kubernetes-Based CI/CD Pipeline**
-Developed a CI/CD pipeline for containerized applications using Kubernetes and Helm, enabling automated, frequent, and stable releases.
-
-#### **2. AWS Cost Optimization Strategy**
-Created an automated cloud architecture on AWS with cost-monitoring tools, successfully reducing cloud expenses by 20%.
+- **Captionographer:** Python web app using HuggingFace’s BLIP2 and Gradio to auto-generate image captions with scraping support.  
+- **Devbot:** Node.js chatbot using GPT-3.5 for intelligent developer assistance.  
+- **Watsonx LLM and Embedding Initializer:** Python module to integrate IBM Watsonx LLMs and embeddings with secure cloud setup.  
+- **Sentiment Analyzer:** Lightweight Python sentiment classifier with unit testing.  
+- **Emotion Detector:** Emotion classification app detecting joy, anger, sadness, etc., with enhanced NLP analysis.  
+- **Meeting Assistant and Speech Analyzer:** Transcribes and summarizes meetings using Whisper + LangChain with LLaMA-2 and Gradio UI.  
+- **Voice Assistant:** Interactive assistant using Python, IBM Watson APIs, and GPT-3.5 for voice interactions.  
+- **blenderbot-chatbot:** Flask-based chatbot with BlenderBot (400M) for conversational dialogue.  
+- **Voice Translator:** Real-time English–Spanish speech translator using IBM Watson Speech APIs and FLAN-UL2 via LangChain.  
+- **Kubernetes-Based CI/CD Pipeline:** CI/CD solution for containerized apps using Helm and Kubernetes.  
+- **AWS Cost Optimization Strategy:** Automated cost-monitoring architecture reducing AWS expenses by 20%.
 
 ---
 
 ### 📈 **Additional Skills & Interests**
 
-- **Technical Writing**: Documented DevOps workflows and created comprehensive technical guides for teams.
-- **Languages**: English, Urdu
-- **Interests**: Open-source projects, advancing in ML/AI technologies, and exploring the latest in MLOps.
+- **Technical Writing**: Created documentation and engineering blogs for internal knowledge sharing.  
+- **Languages**: English, Urdu  
+- **Interests**: Generative AI, open-source collaboration, and building intelligent systems for social impact.
 
 ---
